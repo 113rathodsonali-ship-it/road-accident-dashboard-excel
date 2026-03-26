@@ -1,2 +1,2 @@
 # road-accident-dashboard
-Excel dashboard analyzing road accident data with interactive charts, slicers, and key insights.
+End-to-end data analysis project using Excel and Power BI to analyze road accident trends, casualties, and key risk factors with interactive dashboards.
